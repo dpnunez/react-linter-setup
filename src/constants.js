@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const TS_NAME = 'TypeScript';
 const JS_NAME = 'JavaScipt';
 
