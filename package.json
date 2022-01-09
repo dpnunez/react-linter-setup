@@ -1,6 +1,6 @@
 {
   "name": "react-linter-setup",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -27,6 +27,6 @@
     "prettier": "^2.5.1"
   },
   "bin": {
-    "main": "./src/index.js"
+    "setup-linter": "./src/index.js"
   }
 }
