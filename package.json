@@ -2,12 +2,13 @@
   "name": "react-linter-setup",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "node src/index.js"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "dpnunez",
+  "license": "MIT",
   "dependencies": {
     "inquirer": "^8.2.0"
   },
